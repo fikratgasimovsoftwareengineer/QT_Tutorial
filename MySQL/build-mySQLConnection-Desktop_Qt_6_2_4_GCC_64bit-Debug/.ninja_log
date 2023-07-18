@@ -1,0 +1,15 @@
+# ninja log v5
+0	117	1689701978579098593	mySQLConnection_autogen/timestamp	83117a781b4216a8
+0	117	1689701978579098593	mySQLConnection_autogen/mocs_compilation.cpp	83117a781b4216a8
+0	117	1689701978579098593	/home/fikrat/QT_Tutorial/MySQL/build-mySQLConnection-Desktop_Qt_6_2_4_GCC_64bit-Debug/mySQLConnection_autogen/timestamp	83117a781b4216a8
+0	117	1689701978579098593	/home/fikrat/QT_Tutorial/MySQL/build-mySQLConnection-Desktop_Qt_6_2_4_GCC_64bit-Debug/mySQLConnection_autogen/mocs_compilation.cpp	83117a781b4216a8
+118	1142	1689701979607092258	CMakeFiles/mySQLConnection.dir/mySQLConnection_autogen/mocs_compilation.cpp.o	547916f7056a36b6
+118	1159	1689701979623092159	CMakeFiles/mySQLConnection.dir/main.cpp.o	62b90e852fa89cb9
+118	1228	1689701979691091740	CMakeFiles/mySQLConnection.dir/widget.cpp.o	ac2d05475ff48bcc
+1228	1441	1689701979903090434	mySQLConnection	de402d3784b10911
+1	6	1689702973371861697	mySQLConnection_autogen/timestamp	83117a781b4216a8
+1	6	1689702973371861697	mySQLConnection_autogen/mocs_compilation.cpp	83117a781b4216a8
+1	6	1689702973371861697	/home/fikrat/QT_Tutorial/MySQL/build-mySQLConnection-Desktop_Qt_6_2_4_GCC_64bit-Debug/mySQLConnection_autogen/timestamp	83117a781b4216a8
+1	6	1689702973371861697	/home/fikrat/QT_Tutorial/MySQL/build-mySQLConnection-Desktop_Qt_6_2_4_GCC_64bit-Debug/mySQLConnection_autogen/mocs_compilation.cpp	83117a781b4216a8
+7	1087	1689702974451814036	CMakeFiles/mySQLConnection.dir/widget.cpp.o	ac2d05475ff48bcc
+1087	1295	1689702974659804865	mySQLConnection	de402d3784b10911

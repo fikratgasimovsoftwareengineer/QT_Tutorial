@@ -1,0 +1,9 @@
+# ninja log v5
+0	101	1689711485782648553	mySQLConnection_autogen/timestamp	b32db1e9c3b70007
+0	101	1689711485782648553	mySQLConnection_autogen/mocs_compilation.cpp	b32db1e9c3b70007
+0	101	1689711485782648553	/home/fikrat/QT_Tutorial/MySQL/build-mySQLConnection-WebAssembly-Debug/mySQLConnection_autogen/timestamp	b32db1e9c3b70007
+0	101	1689711485782648553	/home/fikrat/QT_Tutorial/MySQL/build-mySQLConnection-WebAssembly-Debug/mySQLConnection_autogen/mocs_compilation.cpp	b32db1e9c3b70007
+101	1146	1689711486826602786	CMakeFiles/mySQLConnection.dir/mySQLConnection_autogen/mocs_compilation.cpp.o	8ab98a6ab979f21d
+101	1172	1689711486854601559	CMakeFiles/mySQLConnection.dir/main.cpp.o	4d691470570b5118
+102	1288	1689711486970596474	CMakeFiles/mySQLConnection.dir/widget.cpp.o	a33070a17419f1bf
+1288	1487	1689711487166587893	mySQLConnection	de402d3784b10911

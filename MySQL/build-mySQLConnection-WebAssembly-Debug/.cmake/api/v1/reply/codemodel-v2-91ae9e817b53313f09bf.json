@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-71bcc05505f740610844.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "mySQLConnection",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "mySQLConnection::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-mySQLConnection-Debug-13b2cec3811afec2c87b.json",
+					"name" : "mySQLConnection",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "mySQLConnection_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-mySQLConnection_autogen-Debug-1bf729457c9a1ec5692c.json",
+					"name" : "mySQLConnection_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "mySQLConnection_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-mySQLConnection_autogen_timestamp_deps-Debug-74ce4128827a24ca092e.json",
+					"name" : "mySQLConnection_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/fikrat/QT_Tutorial/MySQL/build-mySQLConnection-WebAssembly-Debug",
+		"source" : "/home/fikrat/QT_Tutorial/MySQL/mySQLConnection"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

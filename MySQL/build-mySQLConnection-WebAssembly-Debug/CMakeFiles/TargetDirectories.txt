@@ -1,0 +1,9 @@
+/home/fikrat/QT_Tutorial/MySQL/build-mySQLConnection-WebAssembly-Debug/CMakeFiles/mySQLConnection.dir
+/home/fikrat/QT_Tutorial/MySQL/build-mySQLConnection-WebAssembly-Debug/CMakeFiles/edit_cache.dir
+/home/fikrat/QT_Tutorial/MySQL/build-mySQLConnection-WebAssembly-Debug/CMakeFiles/rebuild_cache.dir
+/home/fikrat/QT_Tutorial/MySQL/build-mySQLConnection-WebAssembly-Debug/CMakeFiles/list_install_components.dir
+/home/fikrat/QT_Tutorial/MySQL/build-mySQLConnection-WebAssembly-Debug/CMakeFiles/install.dir
+/home/fikrat/QT_Tutorial/MySQL/build-mySQLConnection-WebAssembly-Debug/CMakeFiles/install/local.dir
+/home/fikrat/QT_Tutorial/MySQL/build-mySQLConnection-WebAssembly-Debug/CMakeFiles/install/strip.dir
+/home/fikrat/QT_Tutorial/MySQL/build-mySQLConnection-WebAssembly-Debug/CMakeFiles/mySQLConnection_autogen_timestamp_deps.dir
+/home/fikrat/QT_Tutorial/MySQL/build-mySQLConnection-WebAssembly-Debug/CMakeFiles/mySQLConnection_autogen.dir
