@@ -1,0 +1,9 @@
+/home/fikrat/QT_Tutorial/SQl_LITe/build-sqlLite-Desktop_Qt_5_15_2_GCC_64bit-Debug/CMakeFiles/sqlLite.dir
+/home/fikrat/QT_Tutorial/SQl_LITe/build-sqlLite-Desktop_Qt_5_15_2_GCC_64bit-Debug/CMakeFiles/edit_cache.dir
+/home/fikrat/QT_Tutorial/SQl_LITe/build-sqlLite-Desktop_Qt_5_15_2_GCC_64bit-Debug/CMakeFiles/rebuild_cache.dir
+/home/fikrat/QT_Tutorial/SQl_LITe/build-sqlLite-Desktop_Qt_5_15_2_GCC_64bit-Debug/CMakeFiles/list_install_components.dir
+/home/fikrat/QT_Tutorial/SQl_LITe/build-sqlLite-Desktop_Qt_5_15_2_GCC_64bit-Debug/CMakeFiles/install.dir
+/home/fikrat/QT_Tutorial/SQl_LITe/build-sqlLite-Desktop_Qt_5_15_2_GCC_64bit-Debug/CMakeFiles/install/local.dir
+/home/fikrat/QT_Tutorial/SQl_LITe/build-sqlLite-Desktop_Qt_5_15_2_GCC_64bit-Debug/CMakeFiles/install/strip.dir
+/home/fikrat/QT_Tutorial/SQl_LITe/build-sqlLite-Desktop_Qt_5_15_2_GCC_64bit-Debug/CMakeFiles/sqlLite_autogen_timestamp_deps.dir
+/home/fikrat/QT_Tutorial/SQl_LITe/build-sqlLite-Desktop_Qt_5_15_2_GCC_64bit-Debug/CMakeFiles/sqlLite_autogen.dir

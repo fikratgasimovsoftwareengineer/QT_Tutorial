@@ -1,0 +1,15 @@
+# ninja log v5
+2	87	1689690772250307296	/home/fikrat/QT_Tutorial/SQl_LITe/build-sqlLite-Desktop_Qt_5_15_2_GCC_64bit-Debug/sqlLite_autogen/mocs_compilation.cpp	73d94655f817988c
+2	87	1689690772250307296	/home/fikrat/QT_Tutorial/SQl_LITe/build-sqlLite-Desktop_Qt_5_15_2_GCC_64bit-Debug/sqlLite_autogen/timestamp	73d94655f817988c
+98	885	1689690704868892015	CMakeFiles/sqlLite.dir/sqlLite_autogen/mocs_compilation.cpp.o	e4c8abfea5c9f2de
+2	87	1689690772250307296	sqlLite_autogen/timestamp	73d94655f817988c
+2	87	1689690772250307296	sqlLite_autogen/mocs_compilation.cpp	73d94655f817988c
+98	985	1689690704968887969	CMakeFiles/sqlLite.dir/main.cpp.o	b0558410ec076f39
+1	90	1689690916841588774	sqlLite_autogen/timestamp	73d94655f817988c
+1	90	1689690916841588774	sqlLite_autogen/mocs_compilation.cpp	73d94655f817988c
+1	90	1689690916841588774	/home/fikrat/QT_Tutorial/SQl_LITe/build-sqlLite-Desktop_Qt_5_15_2_GCC_64bit-Debug/sqlLite_autogen/timestamp	73d94655f817988c
+1	90	1689690916841588774	/home/fikrat/QT_Tutorial/SQl_LITe/build-sqlLite-Desktop_Qt_5_15_2_GCC_64bit-Debug/sqlLite_autogen/mocs_compilation.cpp	73d94655f817988c
+90	1195	1689690917945556521	CMakeFiles/sqlLite.dir/sqlLite_autogen/mocs_compilation.cpp.o	89bf0b77e6f744ac
+90	1235	1689690917985555353	CMakeFiles/sqlLite.dir/main.cpp.o	cd7a6e7c8e47c30b
+90	1264	1689690918017554419	CMakeFiles/sqlLite.dir/widget.cpp.o	287bd40e1f6e8261
+1264	1484	1689690918233548120	sqlLite	c386e644aa619a66
