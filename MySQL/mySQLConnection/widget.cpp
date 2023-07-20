@@ -27,22 +27,38 @@ void Widget::on_pushButton_clicked()
         ui->label->setText(db.lastError().text());
 
     }  else{
-        QSqlQuery queryDB;
-        queryDB.exec("CREATE TABLE IF NOT EXISTS users ("
-                     "id INTEGER PRIMARY KEY AUTOINCREMENT,"
-                     "firstname TEXT,"
-                     "lastname TEXT)"
-                     );
-        firstname = ui->lineEdit->text();
-        lastname = ui->lineEdit_2->text();
 
-        queryDB.exec("INSERT INTO users (firstname, lastname) VALUES ('" + firstname + "','" + lastname + ")");
-        QMessageBox::information(this, "Database added", "Data has been inserted succesfully");
+            QSqlQuery queryDB;
+            if (!queryDB.exec(
+                    "CREATE TABLE IF NOT EXISTS users ("
+                    "id INTEGER PRIMARY KEY AUTO_INCREMENT, "   // Changed AUTOINCREMENT to AUTO_INCREMENT
+                    "firstname TEXT, "                          // Added comma
+                    "lastname TEXT, "
+                    "age INT)"
+                    ))
+            {
+                ui->lineEdit_3->setText(queryDB.lastError().text());
+                return;
+            }
+            // Use prepared statement to avoid SQL injection
+            queryDB.prepare("INSERT INTO users (firstname, lastname, age) VALUES (?, ?, ?)");
+            queryDB.addBindValue(ui->lineEdit->text());
+            queryDB.addBindValue(ui->lineEdit_2->text());
+            queryDB.addBindValue(ui->lineEdit_4->text());
 
-        ui->lineEdit->setText("");
-        ui->lineEdit_2->setText("");
+            if (!queryDB.exec())
+            {
+                ui->lineEdit_3->setText(queryDB.lastError().text());
+                return;
+            }
+
+            QMessageBox::information(this, "Database added", "Data has been inserted successfully");
+
+            ui->lineEdit->setText("");
+            ui->lineEdit_2->setText("");
+            ui->lineEdit_4->setText("");
+        }
 
 
-    }
 }
 

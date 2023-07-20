@@ -26,6 +26,7 @@ private:
     Ui::Widget *ui;
     QString firstname;
     QString lastname;
+    QString age;
 
 };
 #endif // WIDGET_H
