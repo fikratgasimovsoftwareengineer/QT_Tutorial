@@ -1,0 +1,25 @@
+{
+	"BUILD_DIR" : "/home/fikrat/QT_Dev/WebEnginePro/web_engine_pro/build/Desktop_Qt_6_5_3_GCC_64bit-Debug/web_engine_pro_autogen",
+	"CMAKE_BINARY_DIR" : "/home/fikrat/QT_Dev/WebEnginePro/web_engine_pro/build/Desktop_Qt_6_5_3_GCC_64bit-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/fikrat/QT_Dev/WebEnginePro/web_engine_pro/build/Desktop_Qt_6_5_3_GCC_64bit-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/fikrat/QT_Dev/WebEnginePro/web_engine_pro",
+	"CMAKE_SOURCE_DIR" : "/home/fikrat/QT_Dev/WebEnginePro/web_engine_pro",
+	"INCLUDE_DIR" : "/home/fikrat/QT_Dev/WebEnginePro/web_engine_pro/build/Desktop_Qt_6_5_3_GCC_64bit-Debug/web_engine_pro_autogen/include",
+	"INPUTS" : 
+	[
+		"/home/fikrat/QT_Dev/WebEnginePro/web_engine_pro/refresh.png",
+		"/home/fikrat/QT_Dev/WebEnginePro/web_engine_pro/left-arrow.png",
+		"/home/fikrat/QT_Dev/WebEnginePro/web_engine_pro/right-arrow.png",
+		"/home/fikrat/QT_Dev/WebEnginePro/web_engine_pro/searchM.png"
+	],
+	"LOCK_FILE" : "/home/fikrat/QT_Dev/WebEnginePro/web_engine_pro/build/Desktop_Qt_6_5_3_GCC_64bit-Debug/CMakeFiles/web_engine_pro_autogen.dir/AutoRcc_custom_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "custom" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_custom.cpp",
+	"RCC_EXECUTABLE" : "/opt/Qt/6.5.3/gcc_64/./libexec/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/home/fikrat/QT_Dev/WebEnginePro/web_engine_pro/build/Desktop_Qt_6_5_3_GCC_64bit-Debug/CMakeFiles/web_engine_pro_autogen.dir/AutoRcc_custom_EWIEGA46WW_Used.txt",
+	"SOURCE" : "/home/fikrat/QT_Dev/WebEnginePro/web_engine_pro/custom.qrc",
+	"VERBOSITY" : 0
+}
