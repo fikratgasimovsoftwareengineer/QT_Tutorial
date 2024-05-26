@@ -11,9 +11,11 @@
 
 ## In this tutorial, QT Web Engine Widgets is developed together with HTTPS protocol permission
 
+- Code is given and pushed in the repository: QT_Dev/Web_EnginePro
 To check demo please refer to below link
 [Demo QT Web Engine](https://youtu.be/whDdOu7gv1M?si=X3cNSvaxJ-JdseLX)
 
 ## In fact, it is possible to develop javascript files in qt and integrate them with Web Engine Widgets
 To check demo please refer to below link
+- Code is given and pushed in the repository: WebEngine_Js
 [Demo : Javascript with Qt Web Engine](https://youtu.be/UMxUYJN0Ayc)
