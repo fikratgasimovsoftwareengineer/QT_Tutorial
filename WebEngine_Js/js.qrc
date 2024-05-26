@@ -1,0 +1,33 @@
+<RCC>
+    <qresource prefix="/js">
+        <file>index.html</file>
+        <file>script.js</file>
+        <file>style.css</file>
+        <file>styles.css</file>
+        <file>about.html</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file>Images/1.23.19-Drones-Under-200.jpg</file>
+        <file>Images/1702344_7c04_2.jpg</file>
+        <file>Images/Anomly1.png</file>
+        <file>Images/back_image.jpeg</file>
+        <file>Images/bert.jpg</file>
+        <file>Images/computer_vision.jpeg</file>
+        <file>Images/Delineated-garbage-detection-area_Q320.jpg</file>
+        <file>Images/download.jpg</file>
+        <file>Images/download (3).jpg</file>
+        <file>Images/download_opencv.jpg</file>
+        <file>Images/Fikrat.jpeg</file>
+        <file>Images/firmware.jpeg</file>
+        <file>Images/gradient-ai-cloud-with-broken-pieces.jpg</file>
+        <file>Images/humanfall.jpeg</file>
+        <file>Images/llm.jpeg</file>
+        <file>Images/maxresdefault.jpg</file>
+        <file>Images/opencv.jpg</file>
+        <file>Images/rl.jpeg</file>
+        <file>Images/tesla-v11-fan-edit-1.jpg</file>
+        <file>Images/travel.jpg</file>
+        <file>Images/udemy.jpg</file>
+        <file>Images/WhatsApp.jpg</file>
+    </qresource>
+</RCC>
