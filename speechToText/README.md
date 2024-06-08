@@ -10,5 +10,8 @@ for Automative cars
 5. QT Speech To Text
 
 <img src="bwm_voice_operator.png" width="500"/>
+[QT6 BMW Voice Operator Demo](https://youtu.be/wG-ZcjEOrWo)
+
+
 
 
