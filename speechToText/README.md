@@ -9,6 +9,6 @@ for Automative cars
 4. Qt Voices
 5. QT Speech To Text
 
-[!BMW Voice Operator](bwm_voice_operator.png)
+<img src="bwm_voice_operator.png" width="200"/>
 
 
